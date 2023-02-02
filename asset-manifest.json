@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/curso-react/static/css/main.791fed30.css",
+    "main.js": "/curso-react/static/js/main.9bdd0d68.js",
+    "static/media/savings.svg": "/curso-react/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/curso-react/index.html",
+    "main.791fed30.css.map": "/curso-react/static/css/main.791fed30.css.map",
+    "main.9bdd0d68.js.map": "/curso-react/static/js/main.9bdd0d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.791fed30.css",
+    "static/js/main.9bdd0d68.js"
+  ]
+}
